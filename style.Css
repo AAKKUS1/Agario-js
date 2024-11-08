@@ -3,7 +3,7 @@
     padding: 0px;
     box-sizing: border-box;
 }
-.circle{
+#circle{
     background-color: red;
     border: solid 5px;
     border-radius: 50%;
