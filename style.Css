@@ -11,4 +11,6 @@
     height: 70px;
     width: 70px;   
     position: absolute;
+    box-shadow: 5px 10px 5px rgba(111, 125, 209, 0.418);
+    transition: 0.07s;
 }
